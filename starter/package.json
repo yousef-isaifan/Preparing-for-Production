@@ -1,0 +1,10 @@
+{
+  "name": "study-night",
+  "version": "1.0.0",
+  "description": "Flashcard tool for studying",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
